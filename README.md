@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Add quantization support to TensorFlow.js converter (#7008)

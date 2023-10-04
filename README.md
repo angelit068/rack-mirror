@@ -1,1 +1,1 @@
-Reverse IoU threshold for NMS docs descriptions (#9151)
+ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
